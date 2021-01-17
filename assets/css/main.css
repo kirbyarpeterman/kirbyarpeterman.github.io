@@ -607,6 +607,7 @@ input, select, textarea {
 		height: 10px;
 		display:inline-block;
 		background-position:center;
+		background-size:cover;
 		}
 
 /* Image */
