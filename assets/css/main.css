@@ -1274,6 +1274,7 @@ input, select, textarea {
 
 			#header .logo .icon:before {
 				width: 88px;
+				line-height: 5.5rem;
 			}
 
 		#header .content {
