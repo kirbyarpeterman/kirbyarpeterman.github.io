@@ -1299,8 +1299,8 @@ input, select, textarea {
 		}
 
 			#header .logo .icon:before {
-				width: 2rem;
-				height: 2rem;
+				width: 10px;
+				height: 10px;
 			}
 
 		#header .content {
