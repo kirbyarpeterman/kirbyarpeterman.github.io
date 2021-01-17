@@ -1273,7 +1273,7 @@ input, select, textarea {
 		}
 
 			#header .logo .icon:before {
-				width: 5px;
+				width: 100px;
 			}
 
 		#header .content {
