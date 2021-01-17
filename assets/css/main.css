@@ -1234,6 +1234,8 @@ input, select, textarea {
 		background-image: radial-gradient(rgba(0, 0, 0, 0.25) 25%, rgba(0, 0, 0, 0) 55%);
 		max-width: 100%;
 		text-align: center;
+		position: relative;
+		top: 44px;
 	}
 
 		#header > * {
@@ -1272,10 +1274,6 @@ input, select, textarea {
 			border-radius: 100%;
 		}
 
-			#header .logo .icon:before {
-				width: 88px;
-				line-height: 5.5rem;
-			}
 
 		#header .content {
 			border-style: solid;
