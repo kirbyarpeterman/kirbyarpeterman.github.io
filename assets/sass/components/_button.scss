@@ -39,13 +39,7 @@
 		&:active {
 			background-color: _palette(border-bg-alt);
 		}
-
-		&.icon {
-			&:before {
-				margin-right: 0.5em;
-			}
-		}
-
+		
 		&.fit {
 			width: 100%;
 		}
