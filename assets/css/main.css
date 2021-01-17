@@ -604,9 +604,7 @@ input, select, textarea {
 		content:"";
 		width: 100px;
 		height: 100px;
-		display:inline-block;
-		background-position:center;
-		background-size:cover;
+		display:inline-block
 		}
 
 /* Image */
