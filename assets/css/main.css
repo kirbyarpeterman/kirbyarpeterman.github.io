@@ -602,9 +602,8 @@ input, select, textarea {
 
 	.icon {
 		content:"";
-		background-image: url("");
 		width: 100px;
-		height: 10px;
+		height: 100px;
 		display:inline-block;
 		background-position:center;
 		background-size:cover;
