@@ -55,7 +55,11 @@
 			border-radius: 100%;
 		}
 		.icon {
-			margin-top: -44px;
+			position: absolute;
+			top: -44px;
+			bottom: 44px;
+
+			
 		}
 
 		.content {
