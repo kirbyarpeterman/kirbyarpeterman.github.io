@@ -1448,7 +1448,7 @@ input, select, textarea {
 			}
 
 				#header .logo .icon:before {
-					font-size: 1.75rem;
+					width: 5px;
 				}
 
 			#header .content .inner {
