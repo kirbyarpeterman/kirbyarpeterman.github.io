@@ -1414,9 +1414,9 @@ input, select, textarea {
 				}
 
 			#header .logo {
-				width: 4.75rem;
-				height: 4.75rem;
-				line-height: 4.75rem;
+				width: 88px;
+				height: 88px;
+				line-height: 88px;
 			}
 
 				#header .logo .icon:before {
