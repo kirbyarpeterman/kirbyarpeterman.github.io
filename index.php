@@ -33,7 +33,7 @@ $_POST["insert your message here"]. "From: an@email.address");
 						<div class="content">
 							<div class="inner">
 								<img src="images/Asset 4whitename.png" width=70% height=70%>
-								<p>Denver-based brand strategist and designer with neuropsychology resesarch background.</p>
+								<p>Denver-based brand strategist and designer with neuropsychology resesarch background</p>
 							</div>
 						</div>
 						<nav>
